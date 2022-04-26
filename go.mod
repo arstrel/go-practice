@@ -1,3 +1,3 @@
-module github.com/arstrel/booking
+module booking
 
 go 1.18
